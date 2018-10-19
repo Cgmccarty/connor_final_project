@@ -9,7 +9,7 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "copy": "./node_modules/.bin/cpx \"src/**/*.{html,js}\" dist --watch",
-        "sass": "./node_modules/.bin/sass src/scss/style.scss dist/css/style.css --watch",
+        "sass": "./node_modules/.bin/sass src/sass/style.scss dist/css/style.css --watch",
         "dev": "./node_modules/.bin/concurrently \"npm run copy\" \"npm run sass\""
     },
     "author": "",

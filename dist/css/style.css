@@ -2,14 +2,14 @@ body {
   background: url(https://media.giphy.com/media/elDe2v6uvRtbttDIsL/giphy.gif) no-repeat top right fixed;
   background-size: 400px 200px;
   background-color: black;
-  font-family: 'Cormorant SC', serif;
+  font-family: "Cormorant SC", serif;
   color: #fff;
   letter-spacing: 1.5px;
-  font-size: 18px
+  font-size: 18px;
 }
 
 option {
-  font-family: 'Cormorant SC', serif !important;
+  font-family: "Cormorant SC", serif !important;
   border: 0;
 }
 
@@ -30,7 +30,6 @@ input, select {
   background-color: darkgrey;
 }
 
-
 label {
   float: left;
   margin: 4px;
@@ -43,13 +42,14 @@ label {
   min-width: 200px;
   max-width: 370px;
   margin-bottom: 5px;
-
-  div {
-    padding-bottom: 40px;
-  }
+}
+.col-md-4 div {
+  padding-bottom: 40px;
 }
 
 #classSelect {
   border-bottom: 3px ridge #9E937B;
   padding-bottom: 0;
 }
+
+/*# sourceMappingURL=style.css.map */
