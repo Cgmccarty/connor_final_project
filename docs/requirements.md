@@ -29,8 +29,11 @@
 ## Data
 - Input
   1. Build names
-  2. Soul level for ideal build (if none is provided generate one with 120 soul level)
-  3. Preferred value for specific stats (or random if none)
-  4. Preferred equipment
+  2. Character class
+  3. Character gender
+  4. Soul level for ideal build (if none is provided generate one with 120 soul level)
+  5. Preferred value for any stat (or random if none)
+  6. Preferred equipment
+
 - Output
   1. Will show all input data, formatted into table-like view, and non-specified values will be randomly generated
