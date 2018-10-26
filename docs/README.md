@@ -1,3 +1,7 @@
+## Project Mockup: https://gomockingbird.com/projects/uuihm1g
+## Database Structure: https://docs.google.com/spreadsheets/d/1JuaiYwdk4vbv9FaPlb5VC1ToX6UQYmWYH-B8iEjxGGM/edit?usp=sharing
+
+
 # Bootcamp Final Project
 
 <!--Dark Souls Build Generator-->
